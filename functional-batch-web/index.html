@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" href="data:," />
+  <title>Zenith Fitness – Functional Interface</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+
+<body>
+  <!-- APP BOTTOM NAVIGATION -->
+  
+  <div class="bottom-nav">
+  <div class="nav-item active" onclick="goHome()">
+    <div class="nav-icon">🏠</div>
+    <div class="nav-label">Home</div>
+  </div>
+
+  <div class="nav-item" onclick="startCreateBatch()">
+    <div class="nav-icon">➕</div>
+    <div class="nav-label">Create</div>
+  </div>
+
+  <div class="nav-item" onclick="startWorkout()">
+    <div class="nav-icon">▶</div>
+    <div class="nav-label">Workout</div>
+  </div>
+
+</div>
+
+  <!-- SCREEN 1 : HOME -->
+  <div id="homeScreen" class="screen active">
+    <h1>Zenith Fitness – Functional Interface</h1>
+
+    <div class="top-actions">
+      <div class="card" onclick="openVideoLibrary()">Video Library</div>
+      <div class="card primary" onclick="startCreateBatch()">Create Batch</div>
+    </div>
+
+    <h2>My Batches</h2>
+    <div id="batchList" class="batch-list">
+      <p class="muted">No batches created yet</p>
+    </div>
+  </div>
+
+  <!-- SCREEN 2 : VIDEO LIBRARY -->
+  <div id="libraryScreen" class="screen">
+    <h1>Video Library</h1>
+
+    <input
+      type="text"
+      id="searchInput"
+      placeholder="Search exercises..."
+      onkeyup="filterExercises()"
+    />
+
+    <div class="selected-count">
+      Selected: <span id="selectedCount">0</span> exercises
+    </div>
+
+    <div id="exerciseList" class="exercise-list"></div>
+
+    <div class="bottom-actions">
+      <button id="libraryBackBtn" onclick="cancelLibrary()">Cancel / Back</button>
+      <button id="libraryContinueBtn" class="primary" onclick="continueFromLibrary()">View Batch / Continue</button>
+    </div>
+  </div>
+
+  <!-- ADD THIS BELOW libraryScreen -->
+
+<!-- SCREEN 3 : BATCH REVIEW -->
+<div id="reviewScreen" class="screen">
+  <h1>Batch Review</h1>
+
+  <label for="batchMusicSelect">Background Music</label>
+  <select id="batchMusicSelect"></select>
+
+  <div id="reviewList"></div>
+
+  <div class="bottom-actions multi">
+    <button onclick="openVideoLibrary()">Back / Add Variations</button>
+    <button class="primary" onclick="saveBatch()">Save Batch</button>
+  </div>
+</div>
+
+<!-- SCREEN 4 : EXISTING BATCH -->
+<div id="existingBatchScreen" class="screen">
+  <h1 id="existingBatchTitle"></h1>
+
+  <label for="existingBatchMusicSelect">Background Music</label>
+  <select id="existingBatchMusicSelect"></select>
+
+  <div id="existingBatchList"></div>
+
+  <div class="bottom-actions multi">
+    <button onclick="openVideoLibraryFromExisting()">Add Variation</button>
+    <button class="primary" onclick="saveExistingBatch()">Save Changes</button>
+    <button class="primary" onclick="startWorkout()">▶ Play</button>
+    <button onclick="duplicateBatch()">Save New Batch</button>
+    <button onclick="deleteExistingBatch()">Delete Batch</button>
+  </div>
+</div>
+
+
+  <!-- POPUP : ADD EXERCISE -->
+  <div id="popup" class="popup hidden">
+    <div class="popup-content">
+      <h2>Add Exercise</h2>
+
+      <label>Variation Name</label>
+      <input type="text" id="popupName" />
+
+      <label>Reps</label>
+      <input type="number" id="popupReps" min="1" />
+
+      <label>Seconds per Rep</label>
+      <input type="number" id="popupRepTime" step="0.5" min="0.5" />
+
+      <div class="popup-actions">
+        <button onclick="closePopup()">Back</button>
+        <button class="primary" onclick="addToBatch()">Add to Batch</button>
+      </div>
+    </div>
+  </div>
+
+ <!-- SCREEN 5 : WORKOUT PLAYER -->
+
+<div id="playerScreen" class="screen">
+<audio id="bgMusic" loop>
+  <source src="assets/gym-beat.mp3" type="audio/mpeg">
+ </audio>
+   <div class="player-shell">
+   <div class="player-heading">
+   <h1 id="playerExerciseName"></h1>
+   <p id="variationIndex" class="variation-text"></p>
+   </div>
+
+   <!-- VIDEO -->
+   <div class="simple-video-wrapper">
+     <div id="youtubePlayer" class="simple-video-frame"></div>
+   </div>
+
+   <div class="player-lower-panel">
+   <div id="nextExerciseFlash" class="next-exercise-flash" style="display:none;"></div>
+
+   <!-- REP STATUS -->
+   <div class="rep-panel">
+     <div class="panel-caption">Rep Counter</div>
+     <div class="rep-row">
+       <span class="rep-label">Reps</span>
+      <span id="repCounter" class="rep-value">0</span>
+      <span class="rep-separator">/</span>
+      <span id="repTarget" class="rep-target">0</span>
+    </div>
+    <div class="exercise-progress">
+      <div id="exerciseProgressFill" class="exercise-progress-fill"></div>
+    </div>
+  </div>
+
+  <!-- BATCH PROGRESS -->
+  <div class="progress-panel">
+    <div class="panel-caption">Workout Progress</div>
+    <div class="batch-progress">
+      <div id="batchProgressFill" class="batch-progress-fill"></div>
+    </div>
+  </div>
+
+  <!-- CONTROLS -->
+  <div class="simple-controls">
+    <button onclick="prevExercise()" aria-label="Previous exercise"><-</button>
+    <button id="pauseBtn" onclick="togglePause()">Pause</button>
+    <button onclick="nextExercise()" aria-label="Next exercise">-></button>
+    <button onclick="quitWorkout()">Quit</button>
+  </div>
+  </div>
+  </div>
+
+</div>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+
+  <script src="app.js"></script>
+</body>
+</html>
+
+
+

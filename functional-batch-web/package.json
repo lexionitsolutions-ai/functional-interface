@@ -1,0 +1,8 @@
+{
+  "name": "functional-batch-web",
+  "private": true,
+  "scripts": {
+    "postinstall": "npm --prefix backend install",
+    "start": "node backend/server.js"
+  }
+}
