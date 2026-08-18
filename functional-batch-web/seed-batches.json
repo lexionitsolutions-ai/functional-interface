@@ -1,0 +1,1330 @@
+﻿[
+    {
+        "_id":  "6a82e9e84e1eda873c4a889a",
+        "name":  "Functional Batch Begineer",
+        "musicKey":  "energetic",
+        "exercises":  [
+                          {
+                              "name":  "Wrist Curls WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  2,
+                              "end":  7,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Hand Rotation WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  21,
+                              "end":  31,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Shoulder Rotation WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  10,
+                              "end":  16,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Hand Rotation WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  21,
+                              "end":  31,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Body Twist WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  39,
+                              "end":  45,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Hip Rotation WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  51,
+                              "end":  61,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Shoulder Tap",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  94,
+                              "end":  100,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Push-Up Position Jack",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  102,
+                              "end":  108,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Push-Up Position Toe Touch",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  115,
+                              "end":  126,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Squat and Press",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  138,
+                              "end":  150,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Diamond Push-Up",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  175,
+                              "end":  184,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Squat and Side Knee Tuck",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  156,
+                              "end":  165,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Jack and Press",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  189,
+                              "end":  194,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Body Twist WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  39,
+                              "end":  45,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squat and Press",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  138,
+                              "end":  150,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Shoulder Tap Jack",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  130,
+                              "end":  136,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Squat and Side Knee Tuck",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  156,
+                              "end":  165,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Diamond Push-Up",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  175,
+                              "end":  184,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Jack and Press",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  189,
+                              "end":  194,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Body Twist WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  39,
+                              "end":  45,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Side Knee Tuck",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  197,
+                              "end":  207,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Squat Jump",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  254,
+                              "end":  262,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Burpees",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  270,
+                              "end":  279,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "DB Military Jog",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  239,
+                              "end":  248,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Body Twist WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  39,
+                              "end":  45,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Side Knee Tuck",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  197,
+                              "end":  207,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Squat Jump",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  254,
+                              "end":  262,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Burpees",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  270,
+                              "end":  279,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "DB Military Jog",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  239,
+                              "end":  248,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Wall Sit",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  291,
+                              "end":  300,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Body Twist WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  39,
+                              "end":  45,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Half Crunches",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  306,
+                              "end":  314,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Toe Touch",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  318,
+                              "end":  327,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Heel Touch",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  333,
+                              "end":  339,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Russian Twist",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  345,
+                              "end":  354,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Side Plank",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  437,
+                              "end":  444,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Side Plank",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  437,
+                              "end":  444,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Kick Out",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  362,
+                              "end":  370,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Leg Raises",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  387,
+                              "end":  395,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Flutter Kicks",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  401,
+                              "end":  408,
+                              "reps":  15,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Scissors",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  416,
+                              "end":  423,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Plank Hold",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  426,
+                              "end":  432,
+                              "reps":  20,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-08-17T11:00:56.493Z",
+        "updatedAt":  "2026-08-17T11:00:56.493Z",
+        "__v":  0
+    },
+    {
+        "_id":  "6a7ab7c326812e82d8c3a530",
+        "name":  "Warm Up Batch",
+        "musicKey":  "energetic",
+        "exercises":  [
+                          {
+                              "name":  "Body Twist WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  39,
+                              "end":  45,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Hand Rotation WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  21,
+                              "end":  31,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Hip Rotation WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  51,
+                              "end":  61,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Shoulder Rotation WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  10,
+                              "end":  16,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Toe Touch WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  1.25,
+                              "end":  6.25,
+                              "reps":  10,
+                              "repTime":  1
+                          },
+                          {
+                              "name":  "Wrist Curls WU",
+                              "videoId":  "LBp7ez0VzaI",
+                              "start":  2,
+                              "end":  7,
+                              "reps":  10,
+                              "repTime":  1
+                          }
+                      ],
+        "createdAt":  "2026-08-11T05:48:51.591Z",
+        "updatedAt":  "2026-08-11T05:48:51.591Z",
+        "__v":  0
+    },
+    {
+        "_id":  "6a7a074379b4a030c5e53baa",
+        "name":  "Dumbbell WO",
+        "musicKey":  "energetic",
+        "exercises":  [
+                          {
+                              "name":  "Dumbbell Snatch",
+                              "videoId":  "xA_DpewzL7c",
+                              "start":  2,
+                              "end":  9,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell In-Out",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  48,
+                              "end":  50,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Dumbbell Snatch",
+                              "videoId":  "xA_DpewzL7c",
+                              "start":  2,
+                              "end":  9,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-08-10T17:15:47.799Z",
+        "updatedAt":  "2026-08-10T17:15:47.799Z",
+        "__v":  0
+    },
+    {
+        "_id":  "69d0ec4eb51d903ba4565a74",
+        "name":  "Functional VV Demo",
+        "musicKey":  "energetic",
+        "exercises":  [
+                          {
+                              "name":  "Alt Toe Touch Jack",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  81,
+                              "end":  84,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Dumbbell In-Out",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  48,
+                              "end":  50,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Dumbbell Rotation",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  67,
+                              "end":  73,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Floor Touch Jack",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  3,
+                              "end":  7,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-04-04T10:47:42.072Z",
+        "updatedAt":  "2026-04-04T10:47:42.072Z",
+        "__v":  0
+    },
+    {
+        "_id":  "69d0c8187da9d75f86f91a9a",
+        "name":  "Demo VV",
+        "musicKey":  "energetic",
+        "exercises":  [
+                          {
+                              "name":  "Alt Toe Touch Jack",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  81,
+                              "end":  84,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Dumbbell In-Out",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  48,
+                              "end":  50,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Floor Touch Jack",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  3,
+                              "end":  7,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Shoulder Tap",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  101,
+                              "end":  105,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Push Up Post Toe Touch",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  86,
+                              "end":  90,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-04-04T08:13:12.070Z",
+        "updatedAt":  "2026-04-04T08:13:12.070Z",
+        "__v":  0
+    },
+    {
+        "_id":  "69d0c45c7da9d75f86f91a93",
+        "name":  "Verticle View",
+        "musicKey":  "energetic",
+        "exercises":  [
+                          {
+                              "name":  "Floor Touch Jack",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  3,
+                              "end":  7,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "High Knees",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  3,
+                              "end":  7,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Push Up Post Jack",
+                              "videoId":  "CmyKz49OJ_k",
+                              "start":  3,
+                              "end":  7,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-04-04T07:57:16.813Z",
+        "updatedAt":  "2026-04-04T07:57:16.813Z",
+        "__v":  0
+    },
+    {
+        "_id":  "69cf660edaa1e377a3963761",
+        "name":  "Verticle View",
+        "musicKey":  "energetic",
+        "exercises":  [
+                          {
+                              "name":  "Floor Touch Jack",
+                              "videoId":  "gSj0zJDgMGk",
+                              "start":  6,
+                              "end":  10,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "High Knees",
+                              "videoId":  "0Nf9NAuGIco",
+                              "start":  6,
+                              "end":  10,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Shoulder Tap",
+                              "videoId":  "DyVyAyOE3qU",
+                              "start":  6,
+                              "end":  10,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-04-03T07:02:38.296Z",
+        "updatedAt":  "2026-04-03T07:02:38.296Z",
+        "__v":  0
+    },
+    {
+        "musicKey":  "energetic",
+        "_id":  "69bfb34e354bad918c60916b",
+        "name":  "Yoga",
+        "exercises":  [
+                          {
+                              "name":  "Push Ups",
+                              "videoId":  "IODxDxX7oi4",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Simple Step Up",
+                              "videoId":  "yBvCj6Fczpk",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squats",
+                              "videoId":  "vLZ4GrL2hQQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-03-22T09:15:58.248Z",
+        "updatedAt":  "2026-03-22T09:15:58.248Z",
+        "__v":  0
+    },
+    {
+        "musicKey":  "energetic",
+        "_id":  "69b23d1613e8007d88b129da",
+        "name":  "Happy Hours Functional 1",
+        "exercises":  [
+                          {
+                              "name":  "Jumping Jacks",
+                              "videoId":  "MW7kWssxRjc",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "High Knees",
+                              "videoId":  "0Nf9NAuGIco",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Floor Touch Jack",
+                              "videoId":  "gSj0zJDgMGk",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Shoulder Tap",
+                              "videoId":  "DyVyAyOE3qU",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Push Up Post Jack",
+                              "videoId":  "HWorcUNA5I4",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Push Up Post Toe Touch",
+                              "videoId":  "UdAm9m2n0-o",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Alt Toe Touch Jack",
+                              "videoId":  "CQTjQj7io14",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "MC Climber",
+                              "videoId":  "4LryS7qfERE",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell Rotation",
+                              "videoId":  "_uVU3G0Qxqc",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Stepper Touch Jack",
+                              "videoId":  "tKtLSovyCw0",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  0.5
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Alt Toe Touch Jack",
+                              "videoId":  "CQTjQj7io14",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "MC Climber",
+                              "videoId":  "4LryS7qfERE",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell Rotation",
+                              "videoId":  "_uVU3G0Qxqc",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Military Jog",
+                              "videoId":  "SJqpX5UFXzM",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Side Knee Tuck",
+                              "videoId":  "4kGGhmxbMGE",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  0.5
+                          },
+                          {
+                              "name":  "Dumbbell In-Out",
+                              "videoId":  "OgHVWNAQ_JM",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Side-to-Side",
+                              "videoId":  "1MyBhRZEWOU",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Mountain Climbers",
+                              "videoId":  "4LryS7qfERE",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Side Knee Tuck",
+                              "videoId":  "4kGGhmxbMGE",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell In-Out",
+                              "videoId":  "OgHVWNAQ_JM",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squats",
+                              "videoId":  "vLZ4GrL2hQQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Half Burpees",
+                              "videoId":  "Y12e8NpWUrs",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squat and Press",
+                              "videoId":  "AzoXwjxF4sQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squats",
+                              "videoId":  "vLZ4GrL2hQQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Half Burpees",
+                              "videoId":  "Y12e8NpWUrs",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squat and Press",
+                              "videoId":  "AzoXwjxF4sQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-03-12T04:12:06.937Z",
+        "updatedAt":  "2026-03-12T04:12:06.937Z",
+        "__v":  0
+    },
+    {
+        "musicKey":  "energetic",
+        "_id":  "69b1a4104a12fe752d75d746",
+        "name":  "rest test",
+        "exercises":  [
+                          {
+                              "name":  "Rest",
+                              "videoId":  "vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-03-11T17:19:12.561Z",
+        "updatedAt":  "2026-03-11T17:19:12.561Z",
+        "__v":  0
+    },
+    {
+        "musicKey":  "energetic",
+        "_id":  "69b1a2c44a12fe752d75d740",
+        "name":  "Happy Hours Functional Batch",
+        "exercises":  [
+                          {
+                              "name":  "Jumping Jacks",
+                              "videoId":  "MW7kWssxRjc",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "High Knees",
+                              "videoId":  "0Nf9NAuGIco",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Floor Touch Jack",
+                              "videoId":  "gSj0zJDgMGk",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Shoulder Tap",
+                              "videoId":  "DyVyAyOE3qU",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Push Up Post Jack",
+                              "videoId":  "HWorcUNA5I4",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Push Up Post Toe Touch",
+                              "videoId":  "UdAm9m2n0-o",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Alt Toe Touch Jack",
+                              "videoId":  "CQTjQj7io14",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "MC Climber",
+                              "videoId":  "4LryS7qfERE",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell Rotation",
+                              "videoId":  "_uVU3G0Qxqc",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Stepper Touch Jack",
+                              "videoId":  "tKtLSovyCw0",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "v=vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Alt Toe Touch Jack",
+                              "videoId":  "CQTjQj7io14",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "MC Climber",
+                              "videoId":  "4LryS7qfERE",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell Rotation",
+                              "videoId":  "_uVU3G0Qxqc",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "v=vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Military Jog",
+                              "videoId":  "SJqpX5UFXzM",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Side Knee Tuck",
+                              "videoId":  "4kGGhmxbMGE",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell In-Out",
+                              "videoId":  "OgHVWNAQ_JM",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Side-to-Side",
+                              "videoId":  "1MyBhRZEWOU",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "v=vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Mountain Climbers",
+                              "videoId":  "4LryS7qfERE",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Side Knee Tuck",
+                              "videoId":  "4kGGhmxbMGE",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell In-Out",
+                              "videoId":  "OgHVWNAQ_JM",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "v=vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squats",
+                              "videoId":  "vLZ4GrL2hQQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Half Burpees",
+                              "videoId":  "Y12e8NpWUrs",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squat and Press",
+                              "videoId":  "AzoXwjxF4sQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Simple Step Up",
+                              "videoId":  "yBvCj6Fczpk",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Rest",
+                              "videoId":  "v=vRfI-ihwu5U",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squats",
+                              "videoId":  "vLZ4GrL2hQQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Half Burpees",
+                              "videoId":  "Y12e8NpWUrs",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squat and Press",
+                              "videoId":  "AzoXwjxF4sQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-03-11T17:13:40.700Z",
+        "updatedAt":  "2026-03-11T17:13:40.700Z",
+        "__v":  0
+    },
+    {
+        "musicKey":  "energetic",
+        "_id":  "69aeff52f7adf3bca46aad37",
+        "name":  "Intermediate Functional Batch",
+        "exercises":  [
+                          {
+                              "name":  "Jumping Jacks",
+                              "videoId":  "MW7kWssxRjc",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "High Knees",
+                              "videoId":  "0Nf9NAuGIco",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Floor Touch Jack",
+                              "videoId":  "gSj0zJDgMGk",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Shoulder Tap",
+                              "videoId":  "DyVyAyOE3qU",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Push Up Post Jack",
+                              "videoId":  "HWorcUNA5I4",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  10,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Push Up Post Toe Touch",
+                              "videoId":  "UdAm9m2n0-o",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Alt Toe Touch Jack",
+                              "videoId":  "CQTjQj7io14",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "MC Climber",
+                              "videoId":  "4LryS7qfERE",
+                              "start":  1,
+                              "end":  3,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Dumbbell Rotation",
+                              "videoId":  "_uVU3G0Qxqc",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Stepper Touch Jack",
+                              "videoId":  "tKtLSovyCw0",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Military Jog",
+                              "videoId":  "SJqpX5UFXzM",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Side Knee Tuck",
+                              "videoId":  "4kGGhmxbMGE",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Dumbbell In-Out",
+                              "videoId":  "OgHVWNAQ_JM",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  0.5
+                          },
+                          {
+                              "name":  "Side-to-Side",
+                              "videoId":  "1MyBhRZEWOU",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squats",
+                              "videoId":  "vLZ4GrL2hQQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  1.5
+                          },
+                          {
+                              "name":  "Half Burpees",
+                              "videoId":  "Y12e8NpWUrs",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  10,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Squat and Press",
+                              "videoId":  "AzoXwjxF4sQ",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          },
+                          {
+                              "name":  "Simple Step Up",
+                              "videoId":  "yBvCj6Fczpk",
+                              "start":  1,
+                              "end":  4,
+                              "reps":  15,
+                              "repTime":  2
+                          }
+                      ],
+        "createdAt":  "2026-03-09T17:11:46.296Z",
+        "updatedAt":  "2026-03-09T17:11:46.296Z",
+        "__v":  0
+    }
+]

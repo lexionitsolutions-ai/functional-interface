@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <link rel="icon" href="data:," />
   <title>Zenith Fitness – Functional Interface</title>
   <link rel="stylesheet" href="style.css" />
@@ -25,6 +26,11 @@
   <div class="nav-item" onclick="startWorkout()">
     <div class="nav-icon">▶</div>
     <div class="nav-label">Workout</div>
+  </div>
+
+  <div class="nav-item" onclick="openAddVariationScreen()">
+    <div class="nav-icon">+</div>
+    <div class="nav-label">Variation</div>
   </div>
 
 </div>
@@ -66,6 +72,38 @@
       <button id="libraryContinueBtn" class="primary" onclick="continueFromLibrary()">View Batch / Continue</button>
     </div>
   </div>
+
+<!-- SCREEN : ADD VARIATION -->
+<div id="addVariationScreen" class="screen">
+  <h1>Add Variation</h1>
+
+  <label for="variationNameInput">Variation Name</label>
+  <input type="text" id="variationNameInput" placeholder="Example: Dumbbell Snatch" />
+
+  <label for="variationYoutubeInput">YouTube URL</label>
+  <input type="url" id="variationYoutubeInput" placeholder="Paste YouTube video link" />
+
+  <label for="variationStartInput">Start Time</label>
+  <input type="text" id="variationStartInput" value="0" placeholder="Seconds or 1:24" inputmode="decimal" />
+
+  <label for="variationDurationInput">Loop Duration</label>
+  <input type="text" id="variationDurationInput" placeholder="Seconds or 1:24" inputmode="decimal" />
+
+  <p class="muted">Use seconds, 1:24, or 1.24 for 1 minute 24 seconds.</p>
+
+  <div class="variation-delete-panel">
+    <label for="deleteVariationSelect">Delete Saved Variation</label>
+    <div class="variation-delete-row">
+      <select id="deleteVariationSelect"></select>
+      <button type="button" onclick="deleteCustomVariation()">Delete</button>
+    </div>
+  </div>
+
+  <div class="bottom-actions multi">
+    <button onclick="goHome()">Cancel</button>
+    <button class="primary" onclick="saveCustomVariation()">Add to Library</button>
+  </div>
+</div>
 
   <!-- ADD THIS BELOW libraryScreen -->
 
@@ -110,6 +148,17 @@
 
       <label>Variation Name</label>
       <input type="text" id="popupName" />
+
+      <button type="button" class="preview-button" onclick="previewPopupVariation()">Preview Variation</button>
+
+      <div id="popupPreview" class="popup-preview hidden">
+        <iframe
+          id="popupPreviewFrame"
+          title="Variation preview"
+          allow="autoplay; encrypted-media; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
 
       <label>Reps</label>
       <input type="number" id="popupReps" min="1" />

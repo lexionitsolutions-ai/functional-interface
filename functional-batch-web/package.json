@@ -4,5 +4,8 @@
   "scripts": {
     "postinstall": "npm --prefix backend install",
     "start": "node backend/server.js"
+  },
+  "dependencies": {
+    "mongoose": "^9.2.3"
   }
 }
