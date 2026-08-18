@@ -78,8 +78,12 @@ async function seedBatchesIfEmpty() {
     return;
   }
 
-  const seedPath = path.join(process.cwd(), "seed-batches.json");
-  if (!fs.existsSync(seedPath)) {
+  const seedPath = [
+    path.join(__dirname, "..", "seed-batches.json"),
+    path.join(process.cwd(), "seed-batches.json")
+  ].find(candidatePath => fs.existsSync(candidatePath));
+
+  if (!seedPath) {
     return;
   }
 
